@@ -1,6 +1,6 @@
 # docker-vuejs
 
-## Project setup
+## Project VueJS setup
 ```
 npm install
 ```
