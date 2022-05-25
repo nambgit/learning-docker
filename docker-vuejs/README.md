@@ -1,4 +1,4 @@
-# docker-vue
+# docker-vuejs
 
 ## Project setup
 ```
